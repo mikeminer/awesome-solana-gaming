@@ -59,6 +59,7 @@ Table of Contents
 - [Kaiju Cards](https://twitter.com/kaijucards)
 - [Solcery Games](https://solcery.xyz/)
 - [DeFi Land](https://defiland.app/)
+- [DevFridge World](https://world.devfridge.cool/) — Italian brainrot browser merge game with Solana Token-2022 timelock access (pre-launch).
 - [Solarity VR](https://www.solarity.xyz/)
 - [Scallop](https://www.scallop.io/)
 - [NINJA PROTOCOL| Shadow of Vengeance](https://ninjaprotocol.io/)
